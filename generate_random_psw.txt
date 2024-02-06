@@ -1,0 +1,2 @@
+Enter number for password length: 16
+Generated Password:3nIYs0DY4J$v9C%f
